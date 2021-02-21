@@ -1,3 +1,4 @@
+"use strict";
 var OperationAdd = /** @class */ (function () {
     function OperationAdd() {
     }
